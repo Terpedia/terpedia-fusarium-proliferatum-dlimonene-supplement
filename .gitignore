@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+notebooks/.ipynb_checkpoints/
+research/fusarium-proliferatum-dlimonene-supplement/data/*.xlsx
